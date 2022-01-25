@@ -1,5 +1,7 @@
 # FinanceOps
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/7b88f189-8e9e-4c42-be18-5d672daac680.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/financeops?orgId=561911742905)  
+
 [Original repository on GitHub](https://github.com/Hvass-Labs/FinanceOps)
 
 Original author is [Magnus Erik Hvass Pedersen](http://www.hvass-labs.org)
